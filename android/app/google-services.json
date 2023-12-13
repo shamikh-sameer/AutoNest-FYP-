@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644398687974",
+    "project_id": "autonest-f5999",
+    "storage_bucket": "autonest-f5999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644398687974:android:422acc5f7d30e20459fd27",
+        "android_client_info": {
+          "package_name": "com.example.autonest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7Qe5r-qT75z7Ngi2L24LECQ37Whtjbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
